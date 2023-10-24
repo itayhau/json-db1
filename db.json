@@ -1,0 +1,29 @@
+{
+  "chats": [
+    {
+      "user": "itay",
+      "text": "hi",
+      "time": "19:10:56:656",
+      "id": 1
+    },
+    {
+      "user": "itay",
+      "text": "how are you ?",
+      "time": "19:11:01:007",
+      "id": 2
+    },
+    {
+      "user": "jinji",
+      "text": "hi",
+      "time": "19:12:30:448",
+      "id": 3
+    },
+    {
+      "user": "itay",
+      "text": "you awar",
+      "time": "19:12:57:336",
+      "id": 4
+    }
+    
+  ]
+}
